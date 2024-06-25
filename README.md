@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-1. Run the DataSelect.py script to preprocess the data:
+### 1. Run the DataSelect.py script to preprocess the data:
 
 ```sh
 python DataSelect.py
