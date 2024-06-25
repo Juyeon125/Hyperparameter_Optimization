@@ -8,12 +8,14 @@ First, install the required libraries by running the following command:
 
 ```sh
 pip install -r requirements.txt
+```
 
 ## Usage
 1. Run the DataSelect.py script to preprocess the data:
 
 ```sh
 python DataSelect.py
+```
 
 2. After preprocessing the data, you can run any of the optimization scripts:
 
@@ -28,6 +30,7 @@ Example:
 
 ```sh
 python GridSearch.py
+```
 
 Replace GridSearch.py with the appropriate script name as needed.
 
